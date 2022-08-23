@@ -1,0 +1,5 @@
+user-service/target
+eureka-service/target
+coordinator-service/target
+docker-compose.yml
+.idea
